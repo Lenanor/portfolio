@@ -22,8 +22,7 @@ export const aboutData = {
     'Jag har gått en tvåårig YH-utbildning till Front End Developer och har en master i fri konst i bagaget - jag är en nyfiken utvecklare med intresse för det visuella.',
   paragraphTwo:
     'Mycket av min tid går åt till att lära mig nya tekniker och att göra projekt i syfte att bli bättre på kod och problemlösning. Det är både utmanande och utvecklande vilket gör att jag tycker webbutveckling är så roligt.',
-  paragraphThree:
-    'Jag är engagerad, prestigelös och motiverad att komma vidare mot att bli en så bra utvecklare som möjligt.',
+  paragraphThree: '',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
